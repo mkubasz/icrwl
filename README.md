@@ -28,3 +28,8 @@ Run crawler commands
 
 # Report results
 [Jupyterlab](https://deepnote.com/project/Scaper-Result-uG2swJkkQ3KXSMBv5NTyeA)
+
+# TODO:
+- Add tests/performence tests
+- Go deeper into EDA about links
+- Optimize scrapy
